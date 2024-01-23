@@ -1,0 +1,8 @@
+MMGBSA 
+&general
+	startframe=1, endframe=500, interval=1, keep_files=0, netcdf=1, use_sander=1, verbose=0,
+/
+&gb
+	igb=5, saltcon=0.150,
+/
+
