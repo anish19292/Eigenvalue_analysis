@@ -1,1 +1,1 @@
-This directory contains an Excel macro for matrix generation and processing. Tasks include canonical numbering using the Morgan algorithm, matrix generation, and transposition to covariance matrices.
+This directory contains an Excel macro for matrix generation and processing. Tasks include canonical numbering using the Morgan algorithm, distance matrix generation, physicochemical property-integrated distance matrix generation, and transposition to covariance matrices. Physicochemical properties can be calculated using any open-source tool.
