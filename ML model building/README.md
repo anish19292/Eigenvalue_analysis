@@ -1,1 +1,1 @@
-This directory contains pythom scripts for building machine learning models (classification and regression).
+This directory contains Python scripts for building machine learning models (classification and regression).
